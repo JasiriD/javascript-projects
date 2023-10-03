@@ -73,7 +73,6 @@ function runProgram() {
   // console.log("Time to run the password generator so we can update the menu tomorrow.")
   // console.log(`The new password is: ${generatePassword(password1, password2)}`);
 
-}
 
 runProgram();
 
