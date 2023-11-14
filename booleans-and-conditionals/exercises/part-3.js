@@ -34,3 +34,7 @@ if(fuelLevel > 10000 && engineTemperature <= 2500){
 if(fuelLevel > 5000 && engineTemperature <= 2500){
     console.log("Fuel level above 25%. Engines good.")
 }
+
+if(fuelLevel <= 5000 || engineTemperature > 2500){
+    console.log("Check fuel. Engines running hot.")
+}

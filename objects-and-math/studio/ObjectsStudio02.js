@@ -79,7 +79,7 @@ let candidateA = {
    'o2Used':function(hrs){return 0.018*hrs},
    'astronautID':890
  };
- 
+  
  let crew = [candidateA,candidateC,candidateE];
  
  missionDuration(5);

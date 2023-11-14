@@ -28,7 +28,7 @@ window.addEventListener("load", function(){
             flightStatus.innerHTML = "Shuttle in flight.";
             background.style.backgroundColor = "blue";
             shuttleHeight += 10000;
-            spaceShuttleHeight.innerHTML =shuttleHeight;
+            spaceShuttleHeight.innerHTML = shuttleHeight;
         }
     })
 
